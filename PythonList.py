@@ -20,4 +20,4 @@ list3[0]=99
 print(list1)
 print(list3)
 list3.pop()
-print(set(list3))
+print(set(list3)) #will convert to set
